@@ -16,7 +16,7 @@ public class Solution12Test {
         Solution12 solution = new Solution12();
         assertEquals(solution.multiply("0", "0"), "0");
         assertEquals(solution.multiply("0", "124532"), "0");
-        assertEquals(solution.multiply("769", "2432"), "1870208");
+        assertEquals(solution.multiply("7", "2432"), "1870208");
 
     }
 
